@@ -1,3 +1,3 @@
 library(data.table)
 
-print("Hello World!")
+print("Hello World from R!")
